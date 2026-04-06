@@ -18,15 +18,15 @@
 
 | Section | Count |
 | --- | ---: |
-| Active giveaways | 129 |
-| Inactive giveaways | 177 |
+| Active giveaways | 135 |
+| Inactive giveaways | 181 |
 
 ## Active Giveaways
 
 Use these links to participate manually.
 
 <details open>
-<summary><strong>Show active giveaway links (129)</strong></summary>
+<summary><strong>Show active giveaway links (135)</strong></summary>
 
 
 - [BOBLENNON](https://www.instant-gaming.com/fr/giveaway/BOBLENNON?igr=jaha)
@@ -158,6 +158,12 @@ Use these links to participate manually.
 - [rax1337](https://www.instant-gaming.com/fr/giveaway/rax1337?igr=jaha)
 - [gorillagame](https://www.instant-gaming.com/fr/giveaway/gorillagame?igr=jaha)
 - [masterdoom93](https://www.instant-gaming.com/fr/giveaway/masterdoom93?igr=jaha)
+- [nyxson](https://www.instant-gaming.com/fr/giveaway/nyxson?igr=jaha)
+- [me5rine-lab](https://www.instant-gaming.com/fr/giveaway/me5rine-lab?igr=jaha)
+- [valranox](https://www.instant-gaming.com/fr/giveaway/valranox?igr=jaha)
+- [gtatv](https://www.instant-gaming.com/fr/giveaway/gtatv?igr=jaha)
+- [imkombo](https://www.instant-gaming.com/fr/giveaway/imkombo?igr=jaha)
+- [luc1dg](https://www.instant-gaming.com/fr/giveaway/luc1dg?igr=jaha)
 
 </details>
 
@@ -166,7 +172,7 @@ Use these links to participate manually.
 These links are kept for archive/reference and may no longer be valid.
 
 <details>
-<summary><strong>Show inactive giveaway links (177)</strong></summary>
+<summary><strong>Show inactive giveaway links (181)</strong></summary>
 
 - [AYPIERRE](https://www.instant-gaming.com/fr/giveaway/AYPIERRE?igr=jaha)
 - [linca](https://www.instant-gaming.com/fr/giveaway/linca?igr=jaha)
@@ -345,6 +351,10 @@ These links are kept for archive/reference and may no longer be valid.
 - [mintendogaming](https://www.instant-gaming.com/fr/giveaway/mintendogaming?igr=jaha)
 - [telemenace](https://www.instant-gaming.com/fr/giveaway/telemenace?igr=jaha)
 - [starwraith](https://www.instant-gaming.com/fr/giveaway/starwraith?igr=jaha)
+- [kimikosoma](https://www.instant-gaming.com/fr/giveaway/kimikosoma?igr=jaha)
+- [goldpeaking](https://www.instant-gaming.com/fr/giveaway/goldpeaking?igr=jaha)
+- [awesomepcgames](https://www.instant-gaming.com/fr/giveaway/awesomepcgames?igr=jaha)
+- [nabiieplays](https://www.instant-gaming.com/fr/giveaway/nabiieplays?igr=jaha)
 
 </details>
 
