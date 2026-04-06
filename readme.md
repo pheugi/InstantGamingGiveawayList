@@ -18,7 +18,7 @@
 
 | Section | Count |
 | --- | ---: |
-| Active giveaways | 135 |
+| Active giveaways | 136 |
 | Inactive giveaways | 181 |
 
 ## Active Giveaways
@@ -26,7 +26,7 @@
 Use these links to participate manually.
 
 <details open>
-<summary><strong>Show active giveaway links (135)</strong></summary>
+<summary><strong>Show active giveaway links (136)</strong></summary>
 
 
 - [BOBLENNON](https://www.instant-gaming.com/fr/giveaway/BOBLENNON?igr=jaha)
@@ -164,6 +164,7 @@ Use these links to participate manually.
 - [gtatv](https://www.instant-gaming.com/fr/giveaway/gtatv?igr=jaha)
 - [imkombo](https://www.instant-gaming.com/fr/giveaway/imkombo?igr=jaha)
 - [luc1dg](https://www.instant-gaming.com/fr/giveaway/luc1dg?igr=jaha)
+- [xanderracing](https://www.instant-gaming.com/fr/giveaway/xanderracing?igr=jaha)
 
 </details>
 
