@@ -18,7 +18,7 @@
 
 | Section | Count |
 | --- | ---: |
-| Active giveaways | 121 |
+| Active giveaways | 126 |
 | Inactive giveaways | 171 |
 
 ## Active Giveaways
@@ -26,7 +26,7 @@
 Use these links to participate manually.
 
 <details open>
-<summary><strong>Show active giveaway links (121)</strong></summary>
+<summary><strong>Show active giveaway links (126)</strong></summary>
 
 
 - [BOBLENNON](https://www.instant-gaming.com/fr/giveaway/BOBLENNON?igr=jaha)
@@ -150,6 +150,11 @@ Use these links to participate manually.
 - [Xip4](https://www.instant-gaming.com/fr/giveaway/Xip4?igr=jaha)
 - [YUUHI](https://www.instant-gaming.com/fr/giveaway/YUUHI?igr=jaha)
 - [zellendust](https://www.instant-gaming.com/fr/giveaway/zellendust?igr=jaha)
+- [MartinSpielt](https://www.instant-gaming.com/fr/giveaway/MartinSpielt?igr=jaha)
+- [carlesims](https://www.instant-gaming.com/fr/giveaway/carlesims?igr=jaha)
+- [jackdarius](https://www.instant-gaming.com/fr/giveaway/jackdarius?igr=jaha)
+- [MINOS](https://www.instant-gaming.com/fr/giveaway/MINOS?igr=jaha)
+- [sermedieval](https://www.instant-gaming.com/fr/giveaway/sermedieval?igr=jaha)
 
 </details>
 
