@@ -18,15 +18,15 @@
 
 | Section | Count |
 | --- | ---: |
-| Active giveaways | 126 |
-| Inactive giveaways | 171 |
+| Active giveaways | 129 |
+| Inactive giveaways | 177 |
 
 ## Active Giveaways
 
 Use these links to participate manually.
 
 <details open>
-<summary><strong>Show active giveaway links (126)</strong></summary>
+<summary><strong>Show active giveaway links (129)</strong></summary>
 
 
 - [BOBLENNON](https://www.instant-gaming.com/fr/giveaway/BOBLENNON?igr=jaha)
@@ -155,6 +155,9 @@ Use these links to participate manually.
 - [jackdarius](https://www.instant-gaming.com/fr/giveaway/jackdarius?igr=jaha)
 - [MINOS](https://www.instant-gaming.com/fr/giveaway/MINOS?igr=jaha)
 - [sermedieval](https://www.instant-gaming.com/fr/giveaway/sermedieval?igr=jaha)
+- [rax1337](https://www.instant-gaming.com/fr/giveaway/rax1337?igr=jaha)
+- [gorillagame](https://www.instant-gaming.com/fr/giveaway/gorillagame?igr=jaha)
+- [masterdoom93](https://www.instant-gaming.com/fr/giveaway/masterdoom93?igr=jaha)
 
 </details>
 
@@ -163,7 +166,7 @@ Use these links to participate manually.
 These links are kept for archive/reference and may no longer be valid.
 
 <details>
-<summary><strong>Show inactive giveaway links (171)</strong></summary>
+<summary><strong>Show inactive giveaway links (177)</strong></summary>
 
 - [AYPIERRE](https://www.instant-gaming.com/fr/giveaway/AYPIERRE?igr=jaha)
 - [linca](https://www.instant-gaming.com/fr/giveaway/linca?igr=jaha)
@@ -336,6 +339,12 @@ These links are kept for archive/reference and may no longer be valid.
 - [ELESCOCES](https://www.instant-gaming.com/fr/giveaway/ELESCOCES?igr=jaha)
 - [Diables](https://www.instant-gaming.com/fr/giveaway/Diables?igr=jaha)
 - [D4WS7N](https://www.instant-gaming.com/fr/giveaway/D4WS7N?igr=jaha)
+- [steelovsky](https://www.instant-gaming.com/fr/giveaway/steelovsky?igr=jaha)
+- [catchy](https://www.instant-gaming.com/fr/giveaway/catchy?igr=jaha)
+- [ultraviolet](https://www.instant-gaming.com/fr/giveaway/ultraviolet?igr=jaha)
+- [mintendogaming](https://www.instant-gaming.com/fr/giveaway/mintendogaming?igr=jaha)
+- [telemenace](https://www.instant-gaming.com/fr/giveaway/telemenace?igr=jaha)
+- [starwraith](https://www.instant-gaming.com/fr/giveaway/starwraith?igr=jaha)
 
 </details>
 
