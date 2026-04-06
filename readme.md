@@ -18,15 +18,15 @@
 
 | Section | Count |
 | --- | ---: |
-| Active giveaways | 102 |
-| Inactive giveaways | 72 |
+| Active giveaways | 121 |
+| Inactive giveaways | 171 |
 
 ## Active Giveaways
 
 Use these links to participate manually.
 
 <details open>
-<summary><strong>Show active giveaway links (102)</strong></summary>
+<summary><strong>Show active giveaway links (121)</strong></summary>
 
 
 - [BOBLENNON](https://www.instant-gaming.com/fr/giveaway/BOBLENNON?igr=jaha)
@@ -131,6 +131,25 @@ Use these links to participate manually.
 - [huebi](https://www.instant-gaming.com/fr/giveaway/huebi?igr=jaha)
 - [JULIXSZ](https://www.instant-gaming.com/fr/giveaway/JULIXSZ?igr=jaha)
 - [locklear](https://www.instant-gaming.com/fr/giveaway/locklear?igr=jaha)
+- [FERJUS](https://www.instant-gaming.com/fr/giveaway/FERJUS?igr=jaha)
+- [iReaz](https://www.instant-gaming.com/fr/giveaway/iReaz?igr=jaha)
+- [JORGESPRINTER](https://www.instant-gaming.com/fr/giveaway/JORGESPRINTER?igr=jaha)
+- [KAZHAMANIA](https://www.instant-gaming.com/fr/giveaway/KAZHAMANIA?igr=jaha)
+- [KYCU](https://www.instant-gaming.com/fr/giveaway/KYCU?igr=jaha)
+- [larsi](https://www.instant-gaming.com/fr/giveaway/larsi?igr=jaha)
+- [lunadix28](https://www.instant-gaming.com/fr/giveaway/lunadix28?igr=jaha)
+- [NERDOVERNEWS](https://www.instant-gaming.com/fr/giveaway/NERDOVERNEWS?igr=jaha)
+- [OVERCHARGEDEGG](https://www.instant-gaming.com/fr/giveaway/OVERCHARGEDEGG?igr=jaha)
+- [PHASMOPHOBIAFR](https://www.instant-gaming.com/fr/giveaway/PHASMOPHOBIAFR?igr=jaha)
+- [polman](https://www.instant-gaming.com/fr/giveaway/polman?igr=jaha)
+- [purePia](https://www.instant-gaming.com/fr/giveaway/purePia?igr=jaha)
+- [ROBLOXFR](https://www.instant-gaming.com/fr/giveaway/ROBLOXFR?igr=jaha)
+- [SKIBCUSIENKO](https://www.instant-gaming.com/fr/giveaway/SKIBCUSIENKO?igr=jaha)
+- [T4ISON](https://www.instant-gaming.com/fr/giveaway/T4ISON?igr=jaha)
+- [XEUDITALIA](https://www.instant-gaming.com/fr/giveaway/XEUDITALIA?igr=jaha)
+- [Xip4](https://www.instant-gaming.com/fr/giveaway/Xip4?igr=jaha)
+- [YUUHI](https://www.instant-gaming.com/fr/giveaway/YUUHI?igr=jaha)
+- [zellendust](https://www.instant-gaming.com/fr/giveaway/zellendust?igr=jaha)
 
 </details>
 
@@ -139,7 +158,7 @@ Use these links to participate manually.
 These links are kept for archive/reference and may no longer be valid.
 
 <details>
-<summary><strong>Show inactive giveaway links (72)</strong></summary>
+<summary><strong>Show inactive giveaway links (171)</strong></summary>
 
 - [AYPIERRE](https://www.instant-gaming.com/fr/giveaway/AYPIERRE?igr=jaha)
 - [linca](https://www.instant-gaming.com/fr/giveaway/linca?igr=jaha)
@@ -213,6 +232,105 @@ These links are kept for archive/reference and may no longer be valid.
 - [Bayliun](https://www.instant-gaming.com/fr/giveaway/Bayliun?igr=jaha)
 - [cryzenx](https://www.instant-gaming.com/fr/giveaway/cryzenx?igr=jaha)
 - [miriampetricor](https://www.instant-gaming.com/fr/giveaway/miriampetricor?igr=jaha)
+- [12ROBG](https://www.instant-gaming.com/fr/giveaway/12ROBG?igr=jaha)
+- [AINANAS](https://www.instant-gaming.com/fr/giveaway/AINANAS?igr=jaha)
+- [ALBION](https://www.instant-gaming.com/fr/giveaway/ALBION?igr=jaha)
+- [ANALISTABITS](https://www.instant-gaming.com/fr/giveaway/ANALISTABITS?igr=jaha)
+- [AntonioLinkin](https://www.instant-gaming.com/fr/giveaway/AntonioLinkin?igr=jaha)
+- [ARIKSON](https://www.instant-gaming.com/fr/giveaway/ARIKSON?igr=jaha)
+- [BELLEPINTE](https://www.instant-gaming.com/fr/giveaway/BELLEPINTE?igr=jaha)
+- [BENNYS2K](https://www.instant-gaming.com/fr/giveaway/BENNYS2K?igr=jaha)
+- [BLOODRAINTV](https://www.instant-gaming.com/fr/giveaway/BLOODRAINTV?igr=jaha)
+- [BOLLOSTREAM](https://www.instant-gaming.com/fr/giveaway/BOLLOSTREAM?igr=jaha)
+- [BORJAZAZO](https://www.instant-gaming.com/fr/giveaway/BORJAZAZO?igr=jaha)
+- [BRUBRUNETTE](https://www.instant-gaming.com/fr/giveaway/BRUBRUNETTE?igr=jaha)
+- [BYSANKAH](https://www.instant-gaming.com/fr/giveaway/BYSANKAH?igr=jaha)
+- [CESARVSC](https://www.instant-gaming.com/fr/giveaway/CESARVSC?igr=jaha)
+- [CHUDYCHUDZIUTKI](https://www.instant-gaming.com/fr/giveaway/CHUDYCHUDZIUTKI?igr=jaha)
+- [CIENFUEGOS](https://www.instant-gaming.com/fr/giveaway/CIENFUEGOS?igr=jaha)
+- [cronos](https://www.instant-gaming.com/fr/giveaway/cronos?igr=jaha)
+- [DARIOMARTIZ](https://www.instant-gaming.com/fr/giveaway/DARIOMARTIZ?igr=jaha)
+- [DARKPLAYER](https://www.instant-gaming.com/fr/giveaway/DARKPLAYER?igr=jaha)
+- [dashprof](https://www.instant-gaming.com/fr/giveaway/dashprof?igr=jaha)
+- [davidvinc](https://www.instant-gaming.com/fr/giveaway/davidvinc?igr=jaha)
+- [DOFLANICO](https://www.instant-gaming.com/fr/giveaway/DOFLANICO?igr=jaha)
+- [ELCORSICO](https://www.instant-gaming.com/fr/giveaway/ELCORSICO?igr=jaha)
+- [ELVIRAYUKI](https://www.instant-gaming.com/fr/giveaway/ELVIRAYUKI?igr=jaha)
+- [FANMADETIM](https://www.instant-gaming.com/fr/giveaway/FANMADETIM?igr=jaha)
+- [FIASPO](https://www.instant-gaming.com/fr/giveaway/FIASPO?igr=jaha)
+- [FTOTAL](https://www.instant-gaming.com/fr/giveaway/FTOTAL?igr=jaha)
+- [FUZE](https://www.instant-gaming.com/fr/giveaway/FUZE?igr=jaha)
+- [GAMING06](https://www.instant-gaming.com/fr/giveaway/GAMING06?igr=jaha)
+- [GERARUTARU](https://www.instant-gaming.com/fr/giveaway/GERARUTARU?igr=jaha)
+- [GIUL](https://www.instant-gaming.com/fr/giveaway/GIUL?igr=jaha)
+- [GRABARTEK](https://www.instant-gaming.com/fr/giveaway/GRABARTEK?igr=jaha)
+- [gustingorriz](https://www.instant-gaming.com/fr/giveaway/gustingorriz?igr=jaha)
+- [INSPIRAWKA](https://www.instant-gaming.com/fr/giveaway/INSPIRAWKA?igr=jaha)
+- [JAVIFT14](https://www.instant-gaming.com/fr/giveaway/JAVIFT14?igr=jaha)
+- [JIMMYJOKER](https://www.instant-gaming.com/fr/giveaway/JIMMYJOKER?igr=jaha)
+- [JOAOS92](https://www.instant-gaming.com/fr/giveaway/JOAOS92?igr=jaha)
+- [junajted](https://www.instant-gaming.com/fr/giveaway/junajted?igr=jaha)
+- [kabricietv](https://www.instant-gaming.com/fr/giveaway/kabricietv?igr=jaha)
+- [kakosxamos](https://www.instant-gaming.com/fr/giveaway/kakosxamos?igr=jaha)
+- [KENY500](https://www.instant-gaming.com/fr/giveaway/KENY500?igr=jaha)
+- [KITOSM](https://www.instant-gaming.com/fr/giveaway/KITOSM?igr=jaha)
+- [KLALII](https://www.instant-gaming.com/fr/giveaway/KLALII?igr=jaha)
+- [largetaytertots](https://www.instant-gaming.com/fr/giveaway/largetaytertots?igr=jaha)
+- [lillipie101](https://www.instant-gaming.com/fr/giveaway/lillipie101?igr=jaha)
+- [londyslounge](https://www.instant-gaming.com/fr/giveaway/londyslounge?igr=jaha)
+- [LPmitKev](https://www.instant-gaming.com/fr/giveaway/LPmitKev?igr=jaha)
+- [MARCOMERRINO](https://www.instant-gaming.com/fr/giveaway/MARCOMERRINO?igr=jaha)
+- [MARIESARAH](https://www.instant-gaming.com/fr/giveaway/MARIESARAH?igr=jaha)
+- [meraki](https://www.instant-gaming.com/fr/giveaway/meraki?igr=jaha)
+- [merluso](https://www.instant-gaming.com/fr/giveaway/merluso?igr=jaha)
+- [MILLSRP](https://www.instant-gaming.com/fr/giveaway/MILLSRP?igr=jaha)
+- [MISTERCRO](https://www.instant-gaming.com/fr/giveaway/MISTERCRO?igr=jaha)
+- [MOON](https://www.instant-gaming.com/fr/giveaway/MOON?igr=jaha)
+- [MORAISHD](https://www.instant-gaming.com/fr/giveaway/MORAISHD?igr=jaha)
+- [MOVEMIND](https://www.instant-gaming.com/fr/giveaway/MOVEMIND?igr=jaha)
+- [nardvillain](https://www.instant-gaming.com/fr/giveaway/nardvillain?igr=jaha)
+- [Nozadah](https://www.instant-gaming.com/fr/giveaway/Nozadah?igr=jaha)
+- [OFERTASDEVIDEOJUEGOS](https://www.instant-gaming.com/fr/giveaway/OFERTASDEVIDEOJUEGOS?igr=jaha)
+- [OFERTASXJUEGOS](https://www.instant-gaming.com/fr/giveaway/OFERTASXJUEGOS?igr=jaha)
+- [okonaye](https://www.instant-gaming.com/fr/giveaway/okonaye?igr=jaha)
+- [ONIONDOG](https://www.instant-gaming.com/fr/giveaway/ONIONDOG?igr=jaha)
+- [PEPETAKER15](https://www.instant-gaming.com/fr/giveaway/PEPETAKER15?igr=jaha)
+- [PODERAK](https://www.instant-gaming.com/fr/giveaway/PODERAK?igr=jaha)
+- [POKEMONRAIDITALIA](https://www.instant-gaming.com/fr/giveaway/POKEMONRAIDITALIA?igr=jaha)
+- [polyvalence](https://www.instant-gaming.com/fr/giveaway/polyvalence?igr=jaha)
+- [RAYSNAKEYES](https://www.instant-gaming.com/fr/giveaway/RAYSNAKEYES?igr=jaha)
+- [REPLAYTUGA](https://www.instant-gaming.com/fr/giveaway/REPLAYTUGA?igr=jaha)
+- [RESENASCORTAS](https://www.instant-gaming.com/fr/giveaway/RESENASCORTAS?igr=jaha)
+- [REUDIG](https://www.instant-gaming.com/fr/giveaway/REUDIG?igr=jaha)
+- [rodenasink](https://www.instant-gaming.com/fr/giveaway/rodenasink?igr=jaha)
+- [RXDYE](https://www.instant-gaming.com/fr/giveaway/RXDYE?igr=jaha)
+- [schneile](https://www.instant-gaming.com/fr/giveaway/schneile?igr=jaha)
+- [SEROTHS](https://www.instant-gaming.com/fr/giveaway/SEROTHS?igr=jaha)
+- [shego](https://www.instant-gaming.com/fr/giveaway/shego?igr=jaha)
+- [SOFIANLEGEEK](https://www.instant-gaming.com/fr/giveaway/SOFIANLEGEEK?igr=jaha)
+- [SOMOSXBOX](https://www.instant-gaming.com/fr/giveaway/SOMOSXBOX?igr=jaha)
+- [SOPHIEXELISABETH](https://www.instant-gaming.com/fr/giveaway/SOPHIEXELISABETH?igr=jaha)
+- [SORRISODOZORLAK](https://www.instant-gaming.com/fr/giveaway/SORRISODOZORLAK?igr=jaha)
+- [StevenTed](https://www.instant-gaming.com/fr/giveaway/StevenTed?igr=jaha)
+- [SUGUSSUSANA](https://www.instant-gaming.com/fr/giveaway/SUGUSSUSANA?igr=jaha)
+- [SUPERREBEL](https://www.instant-gaming.com/fr/giveaway/SUPERREBEL?igr=jaha)
+- [TALRINO](https://www.instant-gaming.com/fr/giveaway/TALRINO?igr=jaha)
+- [terste](https://www.instant-gaming.com/fr/giveaway/terste?igr=jaha)
+- [THEFISHOU](https://www.instant-gaming.com/fr/giveaway/THEFISHOU?igr=jaha)
+- [THESEVI87](https://www.instant-gaming.com/fr/giveaway/THESEVI87?igr=jaha)
+- [TJULFAR](https://www.instant-gaming.com/fr/giveaway/TJULFAR?igr=jaha)
+- [TOC](https://www.instant-gaming.com/fr/giveaway/TOC?igr=jaha)
+- [TR1CKSTER](https://www.instant-gaming.com/fr/giveaway/TR1CKSTER?igr=jaha)
+- [TSUBANE](https://www.instant-gaming.com/fr/giveaway/TSUBANE?igr=jaha)
+- [veerdose](https://www.instant-gaming.com/fr/giveaway/veerdose?igr=jaha)
+- [VICTORIARODRGZZ](https://www.instant-gaming.com/fr/giveaway/VICTORIARODRGZZ?igr=jaha)
+- [XUSES](https://www.instant-gaming.com/fr/giveaway/XUSES?igr=jaha)
+- [ZUNK](https://www.instant-gaming.com/fr/giveaway/ZUNK?igr=jaha)
+- [zwave](https://www.instant-gaming.com/fr/giveaway/zwave?igr=jaha)
+- [3ldiablo89](https://www.instant-gaming.com/fr/giveaway/3ldiablo89?igr=jaha)
+- [ELESCOCES](https://www.instant-gaming.com/fr/giveaway/ELESCOCES?igr=jaha)
+- [Diables](https://www.instant-gaming.com/fr/giveaway/Diables?igr=jaha)
+- [D4WS7N](https://www.instant-gaming.com/fr/giveaway/D4WS7N?igr=jaha)
 
 </details>
 
