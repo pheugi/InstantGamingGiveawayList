@@ -18,7 +18,7 @@
 
 | Section | Count |
 | --- | ---: |
-| Active giveaways | 107 |
+| Active giveaways | 102 |
 | Inactive giveaways | 72 |
 
 ## Active Giveaways
@@ -26,7 +26,7 @@
 Use these links to participate manually.
 
 <details open>
-<summary><strong>Show active giveaway links (107)</strong></summary>
+<summary><strong>Show active giveaway links (102)</strong></summary>
 
 
 - [BOBLENNON](https://www.instant-gaming.com/fr/giveaway/BOBLENNON?igr=jaha)
@@ -78,12 +78,10 @@ Use these links to participate manually.
 - [THETJI](https://www.instant-gaming.com/fr/giveaway/THETJI?igr=jaha)
 - [deladysigner](https://www.instant-gaming.com/fr/giveaway/deladysigner?igr=jaha)
 - [KURU](https://www.instant-gaming.com/fr/giveaway/KURU?igr=jaha)
-- [biffa](https://www.instant-gaming.com/fr/giveaway/biffa?igr=jaha)
 - [K0MPA](https://www.instant-gaming.com/fr/giveaway/K0MPA?igr=jaha)
 - [instantgamingde](https://www.instant-gaming.com/fr/giveaway/instantgamingde?igr=jaha)
 - [INSTANTGAMINGPL](https://www.instant-gaming.com/fr/giveaway/INSTANTGAMINGPL?igr=jaha)
 - [snedgie](https://www.instant-gaming.com/fr/giveaway/snedgie?igr=jaha)
-- [mitasims](https://www.instant-gaming.com/fr/giveaway/mitasims?igr=jaha)
 - [officialinvictus](https://www.instant-gaming.com/fr/giveaway/officialinvictus?igr=jaha)
 - [GCA](https://www.instant-gaming.com/fr/giveaway/GCA?igr=jaha)
 - [tahva](https://www.instant-gaming.com/fr/giveaway/tahva?igr=jaha)
@@ -110,14 +108,11 @@ Use these links to participate manually.
 - [poro](https://www.instant-gaming.com/fr/giveaway/poro?igr=jaha)
 - [DESASTRESHOW](https://www.instant-gaming.com/fr/giveaway/DESASTRESHOW?igr=jaha)
 - [JOFRIK99](https://www.instant-gaming.com/fr/giveaway/JOFRIK99?igr=jaha)
-- [kemist](https://www.instant-gaming.com/fr/giveaway/kemist?igr=jaha)
 - [MFGAMING](https://www.instant-gaming.com/fr/giveaway/MFGAMING?igr=jaha)
 - [HeyStan](https://www.instant-gaming.com/fr/giveaway/HeyStan?igr=jaha)
-- [TraKe](https://www.instant-gaming.com/fr/giveaway/TraKe?igr=jaha)
 - [Drunge](https://www.instant-gaming.com/fr/giveaway/Drunge?igr=jaha)
 - [Zazza23](https://www.instant-gaming.com/fr/giveaway/Zazza23?igr=jaha)
 - [BlackPommes](https://www.instant-gaming.com/fr/giveaway/BlackPommes?igr=jaha)
-- [Bayliun](https://www.instant-gaming.com/fr/giveaway/Bayliun?igr=jaha)
 - [LUSORKOEFFIZIENT](https://www.instant-gaming.com/fr/giveaway/LUSORKOEFFIZIENT?igr=jaha)
 - [quantoquevaicustar](https://www.instant-gaming.com/fr/giveaway/quantoquevaicustar?igr=jaha)
 - [eusouocap](https://www.instant-gaming.com/fr/giveaway/eusouocap?igr=jaha)
@@ -125,7 +120,6 @@ Use these links to participate manually.
 - [vutomy](https://www.instant-gaming.com/fr/giveaway/vutomy?igr=jaha)
 - [elkai](https://www.instant-gaming.com/fr/giveaway/elkai?igr=jaha)
 - [onlywaifu](https://www.instant-gaming.com/fr/giveaway/onlywaifu?igr=jaha)
-- [cryzenx](https://www.instant-gaming.com/fr/giveaway/cryzenx?igr=jaha)
 - [naito75](https://www.instant-gaming.com/fr/giveaway/naito75?igr=jaha)
 - [remedy](https://www.instant-gaming.com/fr/giveaway/remedy?igr=jaha)
 - [losiu](https://www.instant-gaming.com/fr/giveaway/losiu?igr=jaha)
@@ -135,7 +129,8 @@ Use these links to participate manually.
 - [pixelade](https://www.instant-gaming.com/fr/giveaway/pixelade?igr=jaha)
 - [carinazinhaa](https://www.instant-gaming.com/fr/giveaway/carinazinhaa?igr=jaha)
 - [huebi](https://www.instant-gaming.com/fr/giveaway/huebi?igr=jaha)
-- [miriampetricor](https://www.instant-gaming.com/fr/giveaway/miriampetricor?igr=jaha)
+- [JULIXSZ](https://www.instant-gaming.com/fr/giveaway/JULIXSZ?igr=jaha)
+- [locklear](https://www.instant-gaming.com/fr/giveaway/locklear?igr=jaha)
 
 </details>
 
@@ -187,24 +182,18 @@ These links are kept for archive/reference and may no longer be valid.
 - [QDSS](https://www.instant-gaming.com/fr/giveaway/QDSS?igr=jaha)
 - [dutygameplays](https://www.instant-gaming.com/fr/giveaway/dutygameplays?igr=jaha)
 - [howimetyourcat](https://www.instant-gaming.com/fr/giveaway/howimetyourcat?igr=jaha)
-- [JULIXSZ](https://www.instant-gaming.com/fr/giveaway/JULIXSZ?igr=jaha)
 - [YAMBALU](https://www.instant-gaming.com/fr/giveaway/YAMBALU?igr=jaha)
 - [PORTALGAMER](https://www.instant-gaming.com/fr/giveaway/PORTALGAMER?igr=jaha)
 - [chaouki](https://www.instant-gaming.com/fr/giveaway/chaouki?igr=jaha)
 - [SEGMENT](https://www.instant-gaming.com/fr/giveaway/SEGMENT?igr=jaha)
 - [trake](https://www.instant-gaming.com/fr/giveaway/trake?igr=jaha)
 - [bayliun](https://www.instant-gaming.com/fr/giveaway/bayliun?igr=jaha)
-- [Chelseahonk](https://www.instant-gaming.com/fr/giveaway/Chelseahonk?igr=jaha)
-- [chaouki](https://www.instant-gaming.com/fr/giveaway/chaouki?igr=jaha)
 - [segment](https://www.instant-gaming.com/fr/giveaway/segment?igr=jaha)
 - [yambalu](https://www.instant-gaming.com/fr/giveaway/yambalu?igr=jaha)
 - [julixsz](https://www.instant-gaming.com/fr/giveaway/julixsz?igr=jaha)
 - [portalgamer](https://www.instant-gaming.com/fr/giveaway/portalgamer?igr=jaha)
 - [qdss](https://www.instant-gaming.com/fr/giveaway/qdss?igr=jaha)
-- [dutygameplays](https://www.instant-gaming.com/fr/giveaway/dutygameplays?igr=jaha)
-- [howimetyourcat](https://www.instant-gaming.com/fr/giveaway/howimetyourcat?igr=jaha)
 - [benzaie](https://www.instant-gaming.com/fr/giveaway/benzaie?igr=jaha)
-- [queltaleale](https://www.instant-gaming.com/fr/giveaway/queltaleale?igr=jaha)
 - [gamersitacommunity](https://www.instant-gaming.com/fr/giveaway/gamersitacommunity?igr=jaha)
 - [cryssness](https://www.instant-gaming.com/fr/giveaway/cryssness?igr=jaha)
 - [r3dgaming](https://www.instant-gaming.com/fr/giveaway/r3dgaming?igr=jaha)
@@ -216,8 +205,14 @@ These links are kept for archive/reference and may no longer be valid.
 - [lovegamingnewtro](https://www.instant-gaming.com/fr/giveaway/lovegamingnewtro?igr=jaha)
 - [assettoes](https://www.instant-gaming.com/fr/giveaway/assettoes?igr=jaha)
 - [ilvado](https://www.instant-gaming.com/fr/giveaway/ilvado?igr=jaha)
-- [locklear](https://www.instant-gaming.com/fr/giveaway/locklear?igr=jaha)
 - [minimaleffortgaming](https://www.instant-gaming.com/fr/giveaway/minimaleffortgaming?igr=jaha)
+- [biffa](https://www.instant-gaming.com/fr/giveaway/biffa?igr=jaha)
+- [mitasims](https://www.instant-gaming.com/fr/giveaway/mitasims?igr=jaha)
+- [kemist](https://www.instant-gaming.com/fr/giveaway/kemist?igr=jaha)
+- [TraKe](https://www.instant-gaming.com/fr/giveaway/TraKe?igr=jaha)
+- [Bayliun](https://www.instant-gaming.com/fr/giveaway/Bayliun?igr=jaha)
+- [cryzenx](https://www.instant-gaming.com/fr/giveaway/cryzenx?igr=jaha)
+- [miriampetricor](https://www.instant-gaming.com/fr/giveaway/miriampetricor?igr=jaha)
 
 </details>
 
