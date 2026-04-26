@@ -8,7 +8,7 @@ OUTPUT_FILE="${ROOT_DIR}/readme.md"
 TMP_FILE="${OUTPUT_FILE}.tmp"
 
 BASE_URL="https://www.instant-gaming.com"
-LOCALE="${LOCALE:-fr}"
+LOCALE="${LOCALE:-de}"
 REFERRAL="jaha"
 AUTO_SCRIPT_URL="https://github.com/enzomtpYT/InstantGaming-Giveaway-AutoParticipate"
 
